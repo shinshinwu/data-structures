@@ -1,0 +1,1 @@
+Saving some typical data structures such as tree and linked list examples here.
